@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>tramicon.qml</file>
+        <file>greenCircle.qml</file>
+        <file>redCircle.qml</file>
+    </qresource>
+</RCC>
